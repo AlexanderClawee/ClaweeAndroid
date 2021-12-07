@@ -1,0 +1,2 @@
+# ClaweeAndroid
+Auto tests Android
