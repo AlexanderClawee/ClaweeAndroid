@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Regression,,,,2021-12-07 17:02:46,2021-12-07 17:11:06,8m - 20.188s,FAILED
+,,,,,,,
+Test Cases/Start page/Login Email,,,,2021-12-07 17:05:33,2021-12-07 17:06:28,55.109s,FAILED
+"startExistingApplication(""com.gigantic.clawee"", STOP_ON_FAILURE)",,,,2021-12-07 17:05:33,2021-12-07 17:05:55,22.006s,PASSED
+"checkElement(findTestObject(""Start page/logoClawee""), 0)",,,,2021-12-07 17:05:55,2021-12-07 17:06:28,33.093s,FAILED
+,,,,,,,
+Test Cases/Start page/6 welcome screens,,,,2021-12-07 17:08:00,2021-12-07 17:08:31,30.935s,FAILED
+"tap(findTestObject(""Start game/6 welcome screens/Next""), 0)",,,,2021-12-07 17:08:00,2021-12-07 17:08:31,30.922s,FAILED
+,,,,,,,
+Test Cases/Start page/Play for real,,,,2021-12-07 17:10:03,2021-12-07 17:10:34,30.509s,FAILED
+"tap(findTestObject(""Start game/6 welcome screens/Lets Go""), 0)",,,,2021-12-07 17:10:03,2021-12-07 17:10:34,30.501s,FAILED
+,,,,,,,
+Test Cases/Reret user,,,,2021-12-07 17:11:06,2021-12-07 17:11:06,0.449s,FAILED
+"tap(findTestObject(""Reset user/Profile""), 0)",,,,2021-12-07 17:11:06,2021-12-07 17:11:06,0.441s,FAILED

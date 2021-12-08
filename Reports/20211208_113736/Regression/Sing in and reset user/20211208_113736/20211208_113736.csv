@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Sing in and reset user,,,,2021-12-08 11:37:38,2021-12-08 11:38:27,48.115s,PASSED
+,,,,,,,
+Test Cases/Start page/Sing In,,,,2021-12-08 11:37:43,2021-12-08 11:38:05,21.645s,PASSED
+"startExistingApplication(""com.gigantic.clawee"", STOP_ON_FAILURE)",,,,2021-12-08 11:37:43,2021-12-08 11:37:52,9.214s,PASSED
+"tap(findTestObject(""Start page/Connect button/Connect with Email/Connect with E-mail""), 0)",,,,2021-12-08 11:37:52,2021-12-08 11:37:58,5.859s,PASSED
+"tap(findTestObject(""Start page/Connect button/Sing in/Already signed up Sign in""), 0)",,,,2021-12-08 11:37:58,2021-12-08 11:37:59,1.137s,PASSED
+"setText(findTestObject(""Start page/Connect button/Connect with Email/E-mail""), ""alex.qa.eng+77@gmail.com"", 0)",,,,2021-12-08 11:37:59,2021-12-08 11:38:01,1.998s,PASSED
+"setText(findTestObject(""Start page/Connect button/Connect with Email/Password""), ""Alex0611"", 0)",,,,2021-12-08 11:38:01,2021-12-08 11:38:03,1.902s,PASSED
+"tap(findTestObject(""Start page/Connect button/Sing in/Sign in""), 0)",,,,2021-12-08 11:38:03,2021-12-08 11:38:05,1.522s,PASSED
+,,,,,,,
+Test Cases/Start page/6 welcome screens,,,,2021-12-08 11:38:05,2021-12-08 11:38:19,14.614s,PASSED
+"tap(findTestObject(""Start game/6 welcome screens/Next""), 0)",,,,2021-12-08 11:38:05,2021-12-08 11:38:13,8.308s,PASSED
+"tap(findTestObject(""Start game/6 welcome screens/Next""), 0)",,,,2021-12-08 11:38:13,2021-12-08 11:38:15,1.319s,PASSED
+"tap(findTestObject(""Start game/6 welcome screens/Next""), 0)",,,,2021-12-08 11:38:15,2021-12-08 11:38:16,1.267s,PASSED
+"tap(findTestObject(""Start game/6 welcome screens/Next""), 0)",,,,2021-12-08 11:38:16,2021-12-08 11:38:17,1.117s,PASSED
+"tap(findTestObject(""Start game/6 welcome screens/Next""), 0)",,,,2021-12-08 11:38:17,2021-12-08 11:38:18,1.320s,PASSED
+"tap(findTestObject(""Start game/6 welcome screens/Close""), 0)",,,,2021-12-08 11:38:18,2021-12-08 11:38:19,1.114s,PASSED
+,,,,,,,
+Test Cases/Start page/Play for real,,,,2021-12-08 11:38:19,2021-12-08 11:38:20,1.086s,PASSED
+"tap(findTestObject(""Start game/6 welcome screens/Lets Go""), 0)",,,,2021-12-08 11:38:20,2021-12-08 11:38:20,0.941s,PASSED
+,,,,,,,
+Test Cases/Reret user,,,,2021-12-08 11:38:20,2021-12-08 11:38:27,6.032s,PASSED
+"tap(findTestObject(""Reset user/Profile""), 0)",,,,2021-12-08 11:38:21,2021-12-08 11:38:23,2.210s,PASSED
+"tap(findTestObject(""Reset user/Dev menu""), 0)",,,,2021-12-08 11:38:23,2021-12-08 11:38:24,0.838s,PASSED
+"tap(findTestObject(""Reset user/RESET ACCOUNT""), 0)",,,,2021-12-08 11:38:24,2021-12-08 11:38:25,1.331s,PASSED
+"tap(findTestObject(""Start game/6 welcome screens/Close""), 0)",,,,2021-12-08 11:38:25,2021-12-08 11:38:27,1.506s,PASSED
