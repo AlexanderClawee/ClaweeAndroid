@@ -12,9 +12,15 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>cc422b07-0a2f-4f58-a566-49bf5985f5e1</testSuiteGuid>
    <testCaseLink>
-      <guid>c5e41611-1e2e-47d2-9289-591bbacd4ea9</guid>
+      <guid>a5d75fbe-3b6e-429f-95c3-c461fbe72951</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
+      <testCaseId>Test Cases/Start page/Login Email</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c5e41611-1e2e-47d2-9289-591bbacd4ea9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Start page/Sing In</testCaseId>
    </testCaseLink>
    <testCaseLink>

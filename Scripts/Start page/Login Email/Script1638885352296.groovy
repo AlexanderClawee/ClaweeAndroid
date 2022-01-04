@@ -27,7 +27,7 @@ Mobile.setText(findTestObject('Start page/Connect button/Connect with Email/Firs
 
 Mobile.setText(findTestObject('Start page/Connect button/Connect with Email/Last name'), 'Testing', 0)
 
-Mobile.setText(findTestObject('Start page/Connect button/Connect with Email/E-mail'), 'Alex.qa.eng+77@gmail.com', 0)
+Mobile.setText(findTestObject('Start page/Connect button/Connect with Email/E-mail'), 'Alex.qa.eng+78@gmail.com', 0)
 
 Mobile.setText(findTestObject('Start page/Connect button/Connect with Email/Password'), 'Alex0611', 0)
 
