@@ -15,25 +15,25 @@
       <guid>a5d75fbe-3b6e-429f-95c3-c461fbe72951</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Start page/Login Email</testCaseId>
+      <testCaseId>Test Cases/Log in/Login Email</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>c5e41611-1e2e-47d2-9289-591bbacd4ea9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
-      <testCaseId>Test Cases/Start page/Sing In</testCaseId>
+      <testCaseId>Test Cases/Log in/Sing In</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>b196630f-becb-449f-91de-47620b6ac0a5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Start page/6 welcome screens</testCaseId>
+      <testCaseId>Test Cases/Log in/6 welcome screens</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>b462cade-fbd4-416d-bdb6-b946b43e5148</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Start page/Play for real</testCaseId>
+      <testCaseId>Test Cases/Log in/Play for real</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>fb17e7a5-8896-4ff2-925d-7e9f139bad12</guid>
